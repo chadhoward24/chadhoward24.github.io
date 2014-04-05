@@ -3,11 +3,13 @@ html {
 }
 
 .profile {
+	background-color: red;
 	color: black;
 	margin: auto;
 	text-align: center;
 	font-family: Arial;
 	font-weight: bold;
+	width: 500px;
 }
 
 img {
