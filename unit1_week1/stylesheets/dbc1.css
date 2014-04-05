@@ -1,0 +1,28 @@
+html {
+	background-color: gray;
+}
+
+.profile {
+	color: red;
+	margin: auto;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+h3 {
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	font-family: Garamond;
+}
+
+p {
+	font-family: "Times New Roman";
+	text-align: center;
+}
+#cheer {
+	font-weight: bold;
+	color: red;
+	text-align: center;
+}
