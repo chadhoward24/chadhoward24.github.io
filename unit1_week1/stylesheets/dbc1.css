@@ -3,7 +3,7 @@ html {
 }
 
 .profile {
-	color: red;
+	color: black;
 	margin: auto;
 	text-align: center;
 	font-family: Arial;
@@ -12,11 +12,11 @@ html {
 
 img {
 	text-align: center;
-	width: 100px
+	width: 100px;
 }
 
 h3 {
-	color: black;
+	color: red;
 	text-align: center;
 	font-weight: bold;
 	font-family: Garamond;
