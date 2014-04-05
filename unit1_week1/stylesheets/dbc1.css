@@ -24,9 +24,14 @@ h3 {
 	font-family: Garamond;
 }
 
-li{
+ul{
 	text-align: center;
 }
+
+ol{
+	text-align: center;
+}
+
 
 p {
 	font-family: "Times New Roman";
