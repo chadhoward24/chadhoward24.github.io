@@ -20,9 +20,13 @@ img {
 	width: 150px;
 }
 
+h4 {
+	font-weight: bold;
+	font-family: Garamond;
+}
+
 h3 {
 	color: red;
-	text-align: center;
 	font-weight: bold;
 	font-family: Garamond;
 }
