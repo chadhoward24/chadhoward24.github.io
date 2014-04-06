@@ -4,6 +4,8 @@ html {
 
 body {
 	background-color: white;
+	margin: auto;
+	width: 500px;
 }
 
 .profile {
