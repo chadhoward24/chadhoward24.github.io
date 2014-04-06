@@ -1,0 +1,37 @@
+#header{
+	background-color: #A3C2FF;
+	text-align: center;
+	width: 100%;
+
+
+}
+
+#content{
+	float:right;
+
+
+}
+
+#sidebar{
+	background-color: #A3C2FF;
+	float: left;
+
+}
+
+#footer{
+	background-color: #A3C2FF;
+	text-align: center;
+	width: 100%;
+
+}
+
+#image{
+	position: relative;
+	width: 70%;
+
+}
+#img_tag{
+	position: absolute;
+	width: 70%
+
+}
