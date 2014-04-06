@@ -2,7 +2,9 @@ html {
 	background-color: gray;
 }
 
-
+body {
+	background-color: white;
+}
 
 .profile {
 	background-color: red;
