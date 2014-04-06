@@ -16,10 +16,6 @@
 	padding: 2px;
 	margin: 2px;
 	text-align: center;
-	
-
-
-
 }
 
 #sidebar{
@@ -45,6 +41,10 @@
 	font-family: Garamond;
 	font-size: 30px;
 	font-weight: bold;
+}
+
+.red {
+	color: red;
 }
 
 p {
