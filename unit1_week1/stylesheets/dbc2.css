@@ -7,6 +7,7 @@
 	border: 2px solid #000000;
 	height: 60px;
 	font-family: Garamond;
+	font-weight: bold;
 }
 
 #content{
@@ -28,6 +29,7 @@
 	margin: 2px;
 	border: 2px solid #000000;
 	height: 600px;
+	font-weight: bold;
 
 }
 
@@ -42,6 +44,7 @@
 	clear: both;
 	font-family: Garamond;
 	font-size: 30px;
+	font-weight: bold;
 }
 
 p {
@@ -49,6 +52,7 @@ p {
 	width: 70%;
 	color: #313A4C;
 	font-size: 30px;
+	font-weight: bold;
 }
 
 #image{
@@ -63,7 +67,7 @@ p {
 }
 
 a:link {
-	color: red;
+	color: #0A1F33;
 }
 
 a:visited {
@@ -72,3 +76,4 @@ a:visited {
 
 a:hover {
 	color: green;
+}
