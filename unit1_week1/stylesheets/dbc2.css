@@ -64,8 +64,8 @@ p {
 	position: absolute;
 	width: 70%;
 	color: red;
-	top: 10px;
-	left: 70px;
+	bottom: 10px;
+	left: 100px;
 }
 
 a:link {
