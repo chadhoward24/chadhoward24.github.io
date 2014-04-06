@@ -1,4 +1,4 @@
-#header{
+#header {
 	background-color: #A3C2FF;
 	text-align: center;
 	width: 100%;
@@ -10,7 +10,7 @@
 	font-weight: bold;
 }
 
-#content{
+#content {
 	float:right;
 	width: 80%;
 	padding: 2px;
@@ -18,7 +18,7 @@
 	text-align: center;
 }
 
-#sidebar{
+#sidebar {
 	background-color: #A3C2FF;
 	float: left;
 	padding: 2px;
@@ -29,7 +29,7 @@
 
 }
 
-#footer{
+#footer {
 	background-color: #A3C2FF;
 	text-align: center;
 	width: 100%;
@@ -55,12 +55,12 @@ p {
 	font-weight: bold;
 }
 
-#image{
+#image {
 	position: relative;
 	width: 70%;
 
 }
-#img_tag{
+#img_tag {
 	position: absolute;
 	width: 70%;
 	color: red;
